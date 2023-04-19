@@ -1,0 +1,12 @@
+img {
+  object-fit: cover;
+  height: 400px;
+  width: 100%;
+}
+.footer {
+  margin: 0 50px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 100px;
+}
